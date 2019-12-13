@@ -1,0 +1,14 @@
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Swipet.csprojAssemblyReference.cache
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Controls\SwiperControl.xaml.g.cs
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Swipet.AssemblyInfoInputs.cache
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Swipet.AssemblyInfo.cs
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Swipet.dll
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\ref\Swipet.dll
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\Swipet.pdb
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\bin\Debug\netstandard2.0\Swipet.deps.json
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\bin\Debug\netstandard2.0\Swipet.dll
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\bin\Debug\netstandard2.0\ref\Swipet.dll
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\bin\Debug\netstandard2.0\Swipet.pdb
+C:\Users\Manuel\source\repos\Swipet\Swipet\Swipet\obj\Debug\netstandard2.0\XamlC.stamp
